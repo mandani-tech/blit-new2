@@ -1,4 +1,7 @@
-import React from 'react';
+import React, { Component } from 'react';
+import './App.css';
+
+
 import logo from './logo.svg';
 import './App.css';
 
